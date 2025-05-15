@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dxve6rmgE/m/Ik78Rp5fNjpP18tNZAu9qvqgQJCnBdU=",
+  "Source": "Currency.WebAPI",
+  "BasePath": "_content/Currency.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

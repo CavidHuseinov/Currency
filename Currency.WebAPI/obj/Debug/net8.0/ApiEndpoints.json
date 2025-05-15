@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Currency.WebAPI.Controllers.CurrencyController",
+    "Method": "GetCurrency",
+    "RelativePath": "api/Currency/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
